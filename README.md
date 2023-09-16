@@ -1,4 +1,4 @@
-# Solaris 2.0 installer and executer
+# Solaris 2.0 installer and executor
 This script attempts to install and execute the Solaris 2.0 trojan.
 
 
