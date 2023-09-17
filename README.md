@@ -8,7 +8,7 @@ Simply download and run the .vbs file in the releases section or [here](https://
 
 
 
-If you encounter any errors start an issue.
+If you like please star :]
 
 
 
